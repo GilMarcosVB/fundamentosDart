@@ -10,8 +10,8 @@ void main(List<String> args) {
   nomeCompletoSemAtribuicao = "Fundamentos do Dart";
 
 
-  String nomeCompletoComAtribuicao = null;
-  nomeCompletoComAtribuicao = "fundamentos do Dart";
+  // String nomeCompletoComAtribuicao = null;
+  // nomeCompletoComAtribuicao = "fundamentos do Dart";
 
   // variável nullable 
   String? nomeCompletoCOmAtribuicaoNullable = null;
